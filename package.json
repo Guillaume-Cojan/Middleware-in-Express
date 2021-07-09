@@ -1,0 +1,22 @@
+{
+  "name": "express-middleware",
+  "version": "1.0.0",
+  "description": "Simple repo for Express Middleware quest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guillaume-Cojan/Middleware-in-Express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guillaume-Cojan/Middleware-in-Express/issues"
+  },
+  "homepage": "https://github.com/Guillaume-Cojan/Middleware-in-Express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
